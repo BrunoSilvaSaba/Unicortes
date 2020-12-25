@@ -1,0 +1,241 @@
+[
+  {
+    "salao" : "Salao Cortes +",
+    "Endereco" : " Rua Vergueiro, 235/249 - Liberdade, São Paulo - SP, 01525-000, (11) 2633-9000",
+    "Profissionais" : [
+      {
+        "nome" : "João Souza",
+        "Servicos" : ["Cabelo", "Barba","Sobrancelha"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}],
+          "_22" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Maria Aparecida",
+        "Servicos" : ["Unhas", "Hidratação","Maquiagem"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}],
+          "_22" : [{}]
+        }
+      },
+      {
+        "nome" : "Daniel Ferreira",
+        "Servicos" : ["Cabelo", "Barba","Penteados","Blindados"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}]
+        }
+      },
+      {
+        "nome" : "Amanda Wolf",
+        "Servicos" : ["Cabelo", "Design de Sobrancelhas","Penteados","Blindados","Maquiagem"],
+        "Horarios" : {
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}]
+        }
+      }
+    ]
+  },
+  {
+    "salao" : "Salao Beleza Divina",
+    "Endereco" : "Av. Dr. Adolpho Pinto, 109 - Barra Funda, São Paulo - SP, 01156-050, (11) 94930-6894",
+    "Profissionais" : [
+      {
+        "nome" : "Lucas Bento",
+        "Servicos" : ["Unhas", "Lavagem","Barbas","Penteados"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_13" : [{}],
+          "_17" : [{}],
+          "_19" : [{}],
+          "_21" : [{}],
+          "_23" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Bruno Sabat",
+        "Servicos" : ["Cabelos", "Barba","Micro Pigmentação","Design de Sobrancelhas"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_13" : [{}],
+          "_18" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Denilson Renilson",
+        "Servicos" : ["Cabelos", "Barba","Unhas","Lavagem","Hidratação"],
+        "Horarios" : {
+          "_7" : [{}],
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Victoria Santos",
+        "Servicos" : ["Cabelos","Unhas","Lavagem","Penteados"],
+        "Horarios" : {
+          "_7" : [{}],
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}]
+        }
+
+      }
+    ]
+  },
+  {
+    "salao" : "Salao Leila Cabeleleira",
+    "Endereco" : " R. Itauna, 429 - Vila Maria Baixa, São Paulo - SP, 02111-030, (11) 2633-9000",
+    "Profissionais" : [
+      {
+        "nome" : "Edward Scissors",
+        "Servicos" : ["Cabelos", "Hidratação","Penteados","Barba"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}],
+          "_22" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Lucas Anjos",
+        "Servicos" : ["Barbas", "Sobrancelhas","Lavagem","Hidratação","Penteados"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Tiago True",
+        "Servicos" : ["Barbas", "Sobrancelhas","Lavagem","Hidratação","Penteados"],
+        "Horarios" : {
+          "_8" : [{}],
+          "_10" : [{}],
+          "_12" : [{}],
+          "_14" : [{}],
+          "_16" : [{}],
+          "_18" : [{}],
+          "_20" : [{}]
+        }
+
+      },
+      {
+        "nome" : "Debora Seco",
+        "Servicos" : ["Unhas", "Sobrancelhas","Lavagem","Hidratação","Penteados", "Design de Sobrancelhas"],
+        "Horarios" : {
+          "_7" : [{}],
+          "_8" : [{}],
+          "_10" : [{}],
+          "_13" : [{}],
+          "_18" : [{}]
+        }
+
+      }
+    ]
+  },{
+  "salao" : "Salao Hall da Fama",
+  "Endereco" : "R. Amador Bueno, 389/491 - Santo Amaro, São Paulo - SP, 04752-900,(11) 2633-9015",
+  "Profissionais" : [
+    {
+      "nome" : "Edson Melo",
+      "Servicos" : ["Cabelo", "Barba","Penteados","Lavagem","Blindados"],
+      "Horarios" : {
+        "_8" : [{}],
+        "_10" : [{}],
+        "_12" : [{}],
+        "_14" : [{}],
+        "_16" : [{}],
+        "_18" : [{}],
+        "_20" : [{}],
+        "_22" : [{}]
+      }
+
+    },
+    {
+      "nome" : "Deana",
+      "Servicos" : ["Unhas", "Hidratação","Design de Sobrancelhas","Maquiagem"],
+      "Horarios" : {
+        "_8" : [{}],
+        "_10" : [{}],
+        "_12" : [{}],
+        "_14" : [{}],
+        "_16" : [{}]
+      }
+
+    },
+    {
+      "nome" : "Vitor Strong",
+      "Servicos" : ["Cabelo", "Barba","Penteados","Lavagem","Blindados","Esfoliação"],
+      "Horarios" : {
+        "_8" : [{}],
+        "_10" : [{}],
+        "_12" : [{}],
+        "_14" : [{}],
+        "_16" : [{}],
+        "_18" : [{}],
+        "_20" : [{}],
+        "_22" : [{}]
+      }
+
+    },
+    {
+      "nome" :"Billy Jimmy",
+      "Servicos" : ["Cabelo", "Barba","Penteados","Lavagem","Blindados","Maquiagem","Esfoliação","Unhas"],
+      "Horarios" : {
+        "_8" : [{}],
+        "_12" : [{}],
+        "_16" : [{}],
+        "_20" : [{}],
+        "_23" : [{}]
+      }
+    }
+  ]
+}
+]
